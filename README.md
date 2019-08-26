@@ -1,3 +1,2 @@
-# Hello-World
-first repository
-today is the first day of using git hub
+<h1>this is first language</h1>
+<h2>this is second language</h2>
