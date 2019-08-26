@@ -1,4 +1,4 @@
-<h1>We applications-Introduction</h1>
+<h1>Web applications-Introduction</h1>
 <h2>Benefits of Webapplications</h2>
 <p1><ul><li>Web applications run "inside" a browser; no complex installation is needed.
  <li>Web applications require very little disk space (or computing power) on the client.</li>
