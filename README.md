@@ -2,12 +2,12 @@
 <img src="webapplication1 image.png" alt="webapplogo">
 <h2>Benefits of Webapplications</h2>
 <img src="webapplication2 image.jpg" alt="webapp1">
-<p1><ul><li>Web applications run "inside" a browser; no complex installation is needed.</li>
+<p><ul><li>Web applications run "inside" a browser; no complex installation is needed.</li>
  <li>Web applications require very little disk space (or computing power) on the client.</li>
 <li>All the client does is display the data.</li>
 <li>Web applications solve some of the "compatibility issues" (Windows, Mac, Linux); all that is needed is a browser.</li>
 <li>In many cases, the data is stored remotely too. As with other cloud computing, this can allow easy communication and cooperation.</li>
-<li>Help for communication and mail</p1></li></ul>
+<li>Help for communication and mail</li></ul></p>
 <h3>Drawbacks of Webapplications</h3>
 <img src="webapplications3.jpg" alt="webapp2">
 <p1><ol><li>Because they run inside a web browser, most web applications "look" very different to regular programs. The user experience or ease of use is different and some may dislike it.</li>
