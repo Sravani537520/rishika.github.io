@@ -17,3 +17,7 @@
 <li>The company offering the web application has complete control over it. This also means that they may launch a new version when they want to; the option to "skip" a less popular version does not exist.</li>
 <li>In many cases, the data is stored remotely too. It may not be possible to export the data so that it can be used with another application.</li>
   <li>The company can theoretically track anything the users do. This can cause privacy problems.</p></li></ol>
+<h3>References</h3>
+<li><a href="https://simple.wikipedia.org/wiki/Web_application"> please refer to this site for more information</li><ul><li> Web Application</a></li>
+ <li><a href="https://simple.wikipedia.org/wiki/Software"> software application</a></li>
+<li><a href="https://simple.wikipedia.org/wiki/Server"> server</a></ul></li>
